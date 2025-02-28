@@ -1,5 +1,3 @@
-# CS255
-
 # CS-255 Project One & Two
 
 ## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
